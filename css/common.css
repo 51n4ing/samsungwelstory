@@ -1,0 +1,34 @@
+header, section, footer {
+
+    width: 100%;
+
+}
+
+header {
+
+    padding: 0 60px;
+
+}
+
+.container {
+
+    max-width: 1500px;
+    margin: 0 auto;
+}
+
+
+@media screen and (max-width: 1500px) { 
+
+    header, .container {
+
+        padding: 0 20px;
+    
+    }
+}
+
+
+
+
+
+
+
